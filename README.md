@@ -2,7 +2,7 @@
 
 >Hey,
 >
->I'm Stellan, a 33 years _old_ photographer based in Hamburg and started **learning** to code.
+>I'm Stellan, a photographer based in Hamburg and started **learning** to code by joining the web-developement bootcamp at [neuefische GmbH](https://github.com/neuefische).
 
 [Picture of me](https://ibb.co/mhPgKPd)
 
@@ -11,8 +11,8 @@
 - Adobe Photoshop
 - Adobe Lightroom
 - Capture One
-- a tiny bit HTML
-- a tiny bit CSS
+- a bit HTML
+- a bit CSS
 
 <p align="center">
 <img height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
