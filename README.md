@@ -6,13 +6,17 @@
 
 [Picture of me](https://ibb.co/mhPgKPd)
 
-My **tech-skills** so far:
+  My **tech-skills** so far:
 - Mac user for 13 years
 - Adobe Photoshop
 - Adobe Lightroom
 - Capture One
 - a tiny bit HTML
 - a tiny bit CSS
+
+<p align="center">
+<img height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+</p>
 
 ### Who am I?
  ```python
@@ -40,3 +44,5 @@ My **tech-skills** so far:
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
+
+
