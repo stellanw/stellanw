@@ -13,3 +13,30 @@ My **tech-skills** so far:
 - Capture One
 - a tiny bit HTML
 - a tiny bit CSS
+
+### Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Stellan'
+		current_work = 'learning to code'
+		hobbies = [
+				'photography',
+				'video games',
+				'different creative things',
+				'DIY',
+				'tattoo myself or others',
+				'many more...',
+
+			]
+	
+	def getCity():
+		return Hamburg_Germany()
+
+	
+	def Ambitions():
+		LearnCoding()
+		CreateWebsite()
+		FinishBootcamp()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
