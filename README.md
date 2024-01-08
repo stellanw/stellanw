@@ -4,7 +4,7 @@
 >
 >I'm Stellan, a photographer based in Hamburg and started **learning** to code by joining the web-developement bootcamp at [neuefische GmbH](https://github.com/neuefische).
 
-[Picture of me](https://ibb.co/mhPgKPd)
+[Picture of me](https://github.com/stellanw/stellanw/blob/8a705461375b7ce88b5fbd96179ce5c67a96b457/Screenshot_20210506_193730.jpg)
 
   My **tech-skills** so far:
 - Mac user for 13 years
