@@ -6,6 +6,8 @@
 
 [Picture of me](https://github.com/stellanw/stellanw/blob/8a705461375b7ce88b5fbd96179ce5c67a96b457/Screenshot_20210506_193730.jpg)
 
+<img src="https://media.giphy.com/media/A1oBMukTqFfkoY1HiH/giphy.gif" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
   My **tech-skills** so far:
 - Mac user for 13 years
 - Adobe Photoshop
