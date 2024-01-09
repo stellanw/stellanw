@@ -7,7 +7,7 @@
 [Picture of me](https://github.com/stellanw/stellanw/blob/8a705461375b7ce88b5fbd96179ce5c67a96b457/Screenshot_20210506_193730.jpg)
 
 <p align="center">
-<img src="https://media.giphy.com/media/A1oBMukTqFfkoY1HiH/giphy.gif" width="480" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://media.giphy.com/media/A1oBMukTqFfkoY1HiH/giphy.gif" width="280" height="148" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 
   My **tech-skills** so far:
