@@ -34,7 +34,6 @@
 				'DIY',
 				'tattoo myself or others',
 				'many more...',
-
 			]
 	
 	def getCity():
