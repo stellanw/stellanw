@@ -4,7 +4,7 @@
 >
 >I'm Stellan, a photographer based in Hamburg who entered **the world of coding** by completing the web development bootcamp at [neuefische GmbH](https://github.com/neuefische).
 
-[Picture of me](https://github.com/stellanw/stellanw/blob/8a705461375b7ce88b5fbd96179ce5c67a96b457/Stellan.png)
+[Picture of me](https://github.com/stellanw/stellanw/blob/main/Stellan.png)
 
 ### Who am I?
  ```python
