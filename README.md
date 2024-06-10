@@ -34,7 +34,6 @@
 				'DIY',
 				'tattoo myself or others',
 				'many more...',
-
 			]
 	
 	def getCity():
@@ -52,3 +51,4 @@
 <p align="center">
 <img height="270px" width="350px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 </p>
+
